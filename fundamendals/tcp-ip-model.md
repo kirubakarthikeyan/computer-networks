@@ -10,7 +10,7 @@ Each layers has its own set of protocols by which data is being transmitted and 
 
 ## Layers
 
-### Datalink layer:
+### Network access layer:
 
 This layer is responsible for sending and recieving data interms of frames over a physical medium (ex: LAN cable, Wireless adapters)
 
